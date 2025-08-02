@@ -1,7 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
